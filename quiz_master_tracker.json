@@ -1,9 +1,9 @@
 {
-  "last_updated_ist": "2026-10-19 01:57:13 AM IST",
+  "last_updated_ist": "2026-10-19 01:58:06 AM IST",
   "current_code_format_example": "19_oct_26_294388",
   "total_repositories": 4,
-  "grand_total_questions": 96,
-  "grand_total_imaged_questions": 89,
+  "grand_total_questions": 48,
+  "grand_total_imaged_questions": 44,
   "total_used_codes_count": 97,
   "github_quiz_repos": {
     "Neet": "https://github.com/quizmaster3181/Neet.git",
@@ -35,21 +35,14 @@
     },
     "Neet": {
       "repo_url": "https://github.com/quizmaster3181/Neet.git",
-      "total_chapters": 2,
-      "total_questions": 96,
-      "total_with_images": 89,
+      "total_chapters": 1,
+      "total_questions": 48,
+      "total_with_images": 44,
       "chapters": [
         {
           "file": "neet_quiz2_19_october_ultimate_validation_test_suite.json",
           "questions": 48,
           "with_images": 44,
-          "checked": 48,
-          "last_modified": "19 Oct 2026, 01:49 AM"
-        },
-        {
-          "file": "neet_quiz1_19_october_ultimate_validation_test_suite.json",
-          "questions": 48,
-          "with_images": 45,
           "checked": 48,
           "last_modified": "19 Oct 2026, 01:49 AM"
         }
