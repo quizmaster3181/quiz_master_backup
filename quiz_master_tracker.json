@@ -1,7 +1,7 @@
 {
   "current_code_format_example": "19_oct_26_294388",
   "total_repositories": 8,
-  "grand_total_questions": 21,
+  "grand_total_questions": 13,
   "grand_total_imaged_questions": 3,
   "total_used_codes_count": 126,
   "github_quiz_repos": {
@@ -82,15 +82,15 @@
     "global_daily_quiz": {
       "repo_url": "https://github.com/quizmaster3181/global_daily_quiz.git",
       "total_chapters": 1,
-      "total_questions": 12,
+      "total_questions": 4,
       "total_with_images": 0,
       "chapters": [
         {
           "file": "global_current_affairs.json",
-          "questions": 12,
+          "questions": 4,
           "with_images": 0,
-          "checked": 12,
-          "last_modified": "19 Oct 2026, 03:18 AM"
+          "checked": 4,
+          "last_modified": "19 Oct 2026, 04:02 AM"
         }
       ]
     },
