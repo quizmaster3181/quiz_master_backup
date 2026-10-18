@@ -1,6 +1,6 @@
 {
   "current_code_format_example": "19_oct_26_294388",
-  "total_repositories": 7,
+  "total_repositories": 8,
   "grand_total_questions": 9,
   "grand_total_imaged_questions": 3,
   "total_used_codes_count": 113,
@@ -9,6 +9,7 @@
     "GS": "https://github.com/quizmaster3181/GS.git",
     "Bio": "https://github.com/quizmaster3181/Bio.git",
     "GK": "https://github.com/quizmaster3181/GK.git",
+    "global_daily_quiz": "https://github.com/quizmaster3181/global_daily_quiz.git",
     "Modern_History": "https://github.com/quizmaster3181/Modern_History.git",
     "Polity": "https://github.com/quizmaster3181/Polity.git",
     "new": "https://github.com/quizmaster3181/new.git"
@@ -77,6 +78,13 @@
           "last_modified": "19 Oct 2026, 03:01 AM"
         }
       ]
+    },
+    "global_daily_quiz": {
+      "repo_url": "https://github.com/quizmaster3181/global_daily_quiz.git",
+      "total_chapters": 0,
+      "total_questions": 0,
+      "total_with_images": 0,
+      "chapters": []
     },
     "new": {
       "repo_url": "https://github.com/quizmaster3181/new.git",
