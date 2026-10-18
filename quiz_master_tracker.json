@@ -1,8 +1,9 @@
 {
-  "last_updated_ist": "2026-10-19 12:19:05 AM IST",
+  "last_updated_ist": "2026-10-19 12:35:11 AM IST",
+  "current_code_prefix_example": "26_october_123456",
   "total_repositories": 4,
   "grand_total_questions": 0,
-  "total_quizzes_with_images": 0,
+  "grand_total_imaged_questions": 0,
   "total_used_codes_count": 1,
   "github_quiz_repos": {
     "Neet": "https://github.com/quizmaster3181/Neet.git",
@@ -15,28 +16,28 @@
       "repo_url": "https://github.com/quizmaster3181/Bio.git",
       "total_chapters": 0,
       "total_questions": 0,
-      "total_images": 0,
+      "total_with_images": 0,
       "chapters": []
     },
     "GK": {
       "repo_url": "https://github.com/quizmaster3181/GK.git",
       "total_chapters": 0,
       "total_questions": 0,
-      "total_images": 0,
+      "total_with_images": 0,
       "chapters": []
     },
     "GS": {
       "repo_url": "https://github.com/quizmaster3181/GS.git",
       "total_chapters": 0,
       "total_questions": 0,
-      "total_images": 0,
+      "total_with_images": 0,
       "chapters": []
     },
     "Neet": {
       "repo_url": "https://github.com/quizmaster3181/Neet.git",
       "total_chapters": 0,
       "total_questions": 0,
-      "total_images": 0,
+      "total_with_images": 0,
       "chapters": []
     }
   },
