@@ -1,9 +1,9 @@
 {
   "current_code_format_example": "19_oct_26_294388",
   "total_repositories": 6,
-  "grand_total_questions": 4,
+  "grand_total_questions": 5,
   "grand_total_imaged_questions": 0,
-  "total_used_codes_count": 101,
+  "total_used_codes_count": 102,
   "github_quiz_repos": {
     "Neet": "https://github.com/quizmaster3181/Neet.git",
     "GS": "https://github.com/quizmaster3181/GS.git",
@@ -50,10 +50,17 @@
     },
     "Polity": {
       "repo_url": "https://github.com/quizmaster3181/Polity.git",
-      "total_chapters": 2,
-      "total_questions": 4,
+      "total_chapters": 3,
+      "total_questions": 5,
       "total_with_images": 0,
       "chapters": [
+        {
+          "file": "poli_quiz3_19_october_himalyan.json",
+          "questions": 1,
+          "with_images": 0,
+          "checked": 1,
+          "last_modified": "19 Oct 2026, 02:21 AM"
+        },
         {
           "file": "poli_quiz2_19_october_himalsadfsfayan_passes.json",
           "questions": 1,
@@ -128,6 +135,7 @@
     "242982",
     "275714",
     "289524",
+    "312163",
     "352356",
     "358739",
     "366004",
