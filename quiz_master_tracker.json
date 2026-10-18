@@ -2,7 +2,7 @@
   "current_code_format_example": "19_oct_26_294388",
   "total_repositories": 7,
   "grand_total_questions": 6,
-  "grand_total_imaged_questions": 3,
+  "grand_total_imaged_questions": 4,
   "total_used_codes_count": 103,
   "github_quiz_repos": {
     "Neet": "https://github.com/quizmaster3181/Neet.git",
@@ -82,12 +82,12 @@
       "repo_url": "https://github.com/quizmaster3181/new.git",
       "total_chapters": 1,
       "total_questions": 1,
-      "total_with_images": 0,
+      "total_with_images": 1,
       "chapters": [
         {
           "file": "newx_quiz1_19_october_test_new.json",
           "questions": 1,
-          "with_images": 0,
+          "with_images": 1,
           "checked": 1,
           "last_modified": "19 Oct 2026, 02:47 AM"
         }
