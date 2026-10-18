@@ -80,7 +80,7 @@
     },
     "new": {
       "repo_url": "https://github.com/quizmaster3181/new.git",
-      "total_chapters": 2,
+      "total_chapters": 1,
       "total_questions": 2,
       "total_with_images": 0,
       "chapters": [
@@ -89,13 +89,6 @@
           "questions": 2,
           "with_images": 0,
           "checked": 2,
-          "last_modified": "19 Oct 2026, 02:59 AM"
-        },
-        {
-          "file": "newx_quiz1_19_october_new_test_quiz.json",
-          "questions": 0,
-          "with_images": 0,
-          "checked": 0,
           "last_modified": "19 Oct 2026, 02:59 AM"
         }
       ]
