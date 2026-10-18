@@ -1,9 +1,9 @@
 {
   "current_code_format_example": "19_oct_26_294388",
   "total_repositories": 8,
-  "grand_total_questions": 13,
+  "grand_total_questions": 14,
   "grand_total_imaged_questions": 3,
-  "total_used_codes_count": 126,
+  "total_used_codes_count": 127,
   "github_quiz_repos": {
     "Neet": "https://github.com/quizmaster3181/Neet.git",
     "GS": "https://github.com/quizmaster3181/GS.git",
@@ -82,15 +82,15 @@
     "global_daily_quiz": {
       "repo_url": "https://github.com/quizmaster3181/global_daily_quiz.git",
       "total_chapters": 1,
-      "total_questions": 4,
+      "total_questions": 5,
       "total_with_images": 0,
       "chapters": [
         {
           "file": "global_current_affairs.json",
-          "questions": 4,
+          "questions": 5,
           "with_images": 0,
-          "checked": 4,
-          "last_modified": "19 Oct 2026, 04:02 AM"
+          "checked": 5,
+          "last_modified": "19 Oct 2026, 04:03 AM"
         }
       ]
     },
@@ -169,6 +169,7 @@
     "233242",
     "242430",
     "242982",
+    "267256",
     "275714",
     "289524",
     "299156",
