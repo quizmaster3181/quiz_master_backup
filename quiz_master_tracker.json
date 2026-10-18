@@ -1,9 +1,9 @@
 {
   "current_code_format_example": "19_oct_26_294388",
   "total_repositories": 6,
-  "grand_total_questions": 0,
+  "grand_total_questions": 3,
   "grand_total_imaged_questions": 0,
-  "total_used_codes_count": 97,
+  "total_used_codes_count": 100,
   "github_quiz_repos": {
     "Neet": "https://github.com/quizmaster3181/Neet.git",
     "GS": "https://github.com/quizmaster3181/GS.git",
@@ -50,10 +50,18 @@
     },
     "Polity": {
       "repo_url": "https://github.com/quizmaster3181/Polity.git",
-      "total_chapters": 0,
-      "total_questions": 0,
+      "total_chapters": 1,
+      "total_questions": 3,
       "total_with_images": 0,
-      "chapters": []
+      "chapters": [
+        {
+          "file": "poli_quiz1_19_october_himalayan_passes.json",
+          "questions": 3,
+          "with_images": 0,
+          "checked": 3,
+          "last_modified": "19 Oct 2026, 02:19 AM"
+        }
+      ]
     }
   },
   "used_quiz_codes": [
@@ -112,6 +120,7 @@
     "233242",
     "242982",
     "275714",
+    "289524",
     "352356",
     "358739",
     "366004",
@@ -119,6 +128,7 @@
     "398685",
     "424522",
     "455146",
+    "456146",
     "458420",
     "458862",
     "468681",
@@ -135,6 +145,7 @@
     "600222",
     "612998",
     "648489",
+    "652794",
     "677469",
     "701259",
     "715834",
