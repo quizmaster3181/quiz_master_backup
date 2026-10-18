@@ -1,9 +1,9 @@
 {
   "current_code_format_example": "19_oct_26_294388",
   "total_repositories": 8,
-  "grand_total_questions": 9,
+  "grand_total_questions": 10,
   "grand_total_imaged_questions": 3,
-  "total_used_codes_count": 113,
+  "total_used_codes_count": 114,
   "github_quiz_repos": {
     "Neet": "https://github.com/quizmaster3181/Neet.git",
     "GS": "https://github.com/quizmaster3181/GS.git",
@@ -17,10 +17,18 @@
   "repositories": {
     "Bio": {
       "repo_url": "https://github.com/quizmaster3181/Bio.git",
-      "total_chapters": 0,
-      "total_questions": 0,
+      "total_chapters": 1,
+      "total_questions": 1,
       "total_with_images": 0,
-      "chapters": []
+      "chapters": [
+        {
+          "file": "biox_quiz1_19_october.json",
+          "questions": 1,
+          "with_images": 0,
+          "checked": 1,
+          "last_modified": "19 Oct 2026, 03:15 AM"
+        }
+      ]
     },
     "GK": {
       "repo_url": "https://github.com/quizmaster3181/GK.git",
@@ -193,6 +201,7 @@
     "612998",
     "648489",
     "652794",
+    "676900",
     "677469",
     "684030",
     "701259",
