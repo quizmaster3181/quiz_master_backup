@@ -1,9 +1,9 @@
 {
   "current_code_format_example": "19_oct_26_294388",
   "total_repositories": 7,
-  "grand_total_questions": 7,
+  "grand_total_questions": 8,
   "grand_total_imaged_questions": 4,
-  "total_used_codes_count": 104,
+  "total_used_codes_count": 105,
   "github_quiz_repos": {
     "Neet": "https://github.com/quizmaster3181/Neet.git",
     "GS": "https://github.com/quizmaster3181/GS.git",
@@ -80,10 +80,17 @@
     },
     "new": {
       "repo_url": "https://github.com/quizmaster3181/new.git",
-      "total_chapters": 2,
-      "total_questions": 2,
+      "total_chapters": 3,
+      "total_questions": 3,
       "total_with_images": 1,
       "chapters": [
+        {
+          "file": "newx_quiz3_19_october_himalayan_passes.json",
+          "questions": 1,
+          "with_images": 0,
+          "checked": 1,
+          "last_modified": "19 Oct 2026, 02:50 AM"
+        },
         {
           "file": "newx_quiz2_19_october_himalayan_passes.json",
           "questions": 1,
@@ -163,6 +170,7 @@
     "358739",
     "366004",
     "381724",
+    "392173",
     "398685",
     "424522",
     "455146",
