@@ -1,0 +1,38 @@
+{
+  "last_updated_ist": "2026-10-19 12:11:13 AM IST",
+  "total_repositories": 4,
+  "grand_total_questions": 1,
+  "repositories": {
+    "Bio": {
+      "repo_url": "https://github.com/quizmaster3181/Bio.git",
+      "total_chapters": 1,
+      "total_questions": 1,
+      "chapters": [
+        {
+          "file": "biox_quiz1_19_october.json",
+          "questions": 1,
+          "with_images": 0,
+          "last_modified": "19 Oct 2026, 12:11 AM"
+        }
+      ]
+    },
+    "GK": {
+      "repo_url": "https://github.com/quizmaster3181/GK.git",
+      "total_chapters": 0,
+      "total_questions": 0,
+      "chapters": []
+    },
+    "GS": {
+      "repo_url": "https://github.com/quizmaster3181/GS.git",
+      "total_chapters": 0,
+      "total_questions": 0,
+      "chapters": []
+    },
+    "Neet": {
+      "repo_url": "https://github.com/quizmaster3181/Neet.git",
+      "total_chapters": 0,
+      "total_questions": 0,
+      "chapters": []
+    }
+  }
+}
