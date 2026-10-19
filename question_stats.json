@@ -1,0 +1,38 @@
+{
+  "200001": {
+    "attempts": 282,
+    "fails": 228,
+    "correct": 54,
+    "repo": "GS",
+    "ask_count": 3,
+    "tier_used": "tier_tough"
+  },
+  "100001": {
+    "attempts": 176,
+    "fails": 134,
+    "correct": 42,
+    "repo": "Neet",
+    "ask_count": 18,
+    "tier_used": "tier_tough"
+  },
+  "100002": {
+    "attempts": 0,
+    "fails": 0,
+    "correct": 0,
+    "repo": "Neet"
+  },
+  "19_oct_26_100002": {
+    "attempts": 0,
+    "fails": 0,
+    "correct": 0,
+    "repo": "Neet"
+  },
+  "19_oct_26_100001": {
+    "attempts": 14,
+    "fails": 12,
+    "correct": 2,
+    "repo": "Neet",
+    "ask_count": 5,
+    "tier_used": "tier_tough"
+  }
+}
