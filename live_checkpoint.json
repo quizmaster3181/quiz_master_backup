@@ -1,10 +1,10 @@
 {
-  "current_round_num": 60,
-  "drive_save_counter": 8,
+  "current_round_num": 80,
+  "drive_save_counter": 12,
   "active_quiz_repo": "Neet",
   "active_quiz_file": "ALL",
   "active_group_mode": "exam_type",
-  "active_graph_type": "polarArea",
+  "active_graph_type": "bar",
   "last_stream_url": "https://www.youtube.com/watch?v=YpVL-3w--4Y",
   "last_active_game": "neet_quiz_v19"
 }
