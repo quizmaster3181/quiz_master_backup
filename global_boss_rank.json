@@ -25,10 +25,10 @@
       "img": "/custom_images/exam_type/railway.png?label=RAILWAY%20RRB"
     },
     "Kabir_25": {
-      "marks": 2,
-      "wins": 1,
-      "team": "STATE PCS",
-      "img": "/custom_images/exam_type/state_pcs.png?label=STATE%20PCS"
+      "marks": 4,
+      "wins": 2,
+      "team": "AUSTRALIA",
+      "img": "/flags/au.svg"
     },
     "Ishaan_94": {
       "marks": 4,
@@ -91,10 +91,10 @@
       "img": "/custom_images/exam_type/neet.png?label=NEET%20UG"
     },
     "Priya_96": {
-      "marks": 2,
-      "wins": 1,
-      "team": "STATE PCS",
-      "img": "/custom_images/exam_type/state_pcs.png?label=STATE%20PCS"
+      "marks": 4,
+      "wins": 2,
+      "team": "JAPAN",
+      "img": "/flags/jp.svg"
     },
     "Aditya_28": {
       "marks": 2,
@@ -109,9 +109,9 @@
       "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
     },
     "Neha_54": {
-      "marks": 2,
-      "wins": 1,
-      "team": "CAT MBA",
+      "marks": 4,
+      "wins": 2,
+      "team": "JEE MAIN",
       "img": "/custom_images/exam_type/cat.png?label=CAT%20MBA"
     },
     "Vivaan_65": {
@@ -151,9 +151,9 @@
       "img": "/custom_images/exam_type/upsc.png?label=UPSC%20CSE"
     },
     "Riya_44": {
-      "marks": 2,
-      "wins": 1,
-      "team": "SSC CGL",
+      "marks": 4,
+      "wins": 2,
+      "team": "CAT MBA",
       "img": "/custom_images/exam_type/ssc_cgl.png?label=SSC%20CGL"
     },
     "Neha_60": {
@@ -349,10 +349,10 @@
       "img": "/custom_images/exam_type/upsc.png?label=UPSC%20CSE"
     },
     "Ishaan_79": {
-      "marks": 2,
-      "wins": 1,
-      "team": "BANK PO",
-      "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
+      "marks": 4,
+      "wins": 2,
+      "team": "UK",
+      "img": "/flags/gb.svg"
     },
     "Aditya_40": {
       "marks": 2,
@@ -437,6 +437,366 @@
       "wins": 1,
       "team": "NEET UG",
       "img": "/custom_images/exam_type/neet.png?label=NEET%20UG"
+    },
+    "Aarav_18": {
+      "marks": 2,
+      "wins": 1,
+      "team": "RAILWAY RRB",
+      "img": "/custom_images/exam_type/railway.png?label=RAILWAY%20RRB"
+    },
+    "Vihaan_20": {
+      "marks": 4,
+      "wins": 2,
+      "team": "CANADA",
+      "img": "/flags/ca.svg"
+    },
+    "Aarav_35": {
+      "marks": 2,
+      "wins": 1,
+      "team": "GATE",
+      "img": "/custom_images/exam_type/gate.png?label=GATE"
+    },
+    "Vihaan_58": {
+      "marks": 2,
+      "wins": 1,
+      "team": "CAT MBA",
+      "img": "/custom_images/exam_type/cat.png?label=CAT%20MBA"
+    },
+    "Ishaan_85": {
+      "marks": 2,
+      "wins": 1,
+      "team": "BANK PO",
+      "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
+    },
+    "Kabir_28": {
+      "marks": 2,
+      "wins": 1,
+      "team": "BANK PO",
+      "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
+    },
+    "Vivaan_52": {
+      "marks": 2,
+      "wins": 1,
+      "team": "STATE PCS",
+      "img": "/custom_images/exam_type/state_pcs.png?label=STATE%20PCS"
+    },
+    "Ishaan_62": {
+      "marks": 2,
+      "wins": 1,
+      "team": "JEE MAIN",
+      "img": "/custom_images/exam_type/jee.png?label=JEE%20MAIN"
+    },
+    "Sai_51": {
+      "marks": 2,
+      "wins": 1,
+      "team": "BANK PO",
+      "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
+    },
+    "Aarav_44": {
+      "marks": 2,
+      "wins": 1,
+      "team": "SSC CGL",
+      "img": "/custom_images/exam_type/ssc_cgl.png?label=SSC%20CGL"
+    },
+    "Kabir_81": {
+      "marks": 2,
+      "wins": 1,
+      "team": "SSC CGL",
+      "img": "/custom_images/exam_type/ssc_cgl.png?label=SSC%20CGL"
+    },
+    "Diya_36": {
+      "marks": 2,
+      "wins": 1,
+      "team": "SSC CGL",
+      "img": "/custom_images/exam_type/ssc_cgl.png?label=SSC%20CGL"
+    },
+    "Arjun_39": {
+      "marks": 2,
+      "wins": 1,
+      "team": "BANK PO",
+      "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
+    },
+    "Ishaan_58": {
+      "marks": 2,
+      "wins": 1,
+      "team": "CAT MBA",
+      "img": "/custom_images/exam_type/cat.png?label=CAT%20MBA"
+    },
+    "Ananya_82": {
+      "marks": 2,
+      "wins": 1,
+      "team": "BANK PO",
+      "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
+    },
+    "Neha_45": {
+      "marks": 2,
+      "wins": 1,
+      "team": "BANK PO",
+      "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
+    },
+    "Arjun_77": {
+      "marks": 2,
+      "wins": 1,
+      "team": "NDA DEFENCE",
+      "img": "/custom_images/exam_type/nda.png?label=NDA%20DEFENCE"
+    },
+    "Aarav_65": {
+      "marks": 2,
+      "wins": 1,
+      "team": "JEE MAIN",
+      "img": "/custom_images/exam_type/jee.png?label=JEE%20MAIN"
+    },
+    "Sai_34": {
+      "marks": 2,
+      "wins": 1,
+      "team": "BANK PO",
+      "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
+    },
+    "Arjun_90": {
+      "marks": 2,
+      "wins": 1,
+      "team": "NEET UG",
+      "img": "/custom_images/exam_type/neet.png?label=NEET%20UG"
+    },
+    "Rohan_18": {
+      "marks": 2,
+      "wins": 1,
+      "team": "CAT MBA",
+      "img": "/custom_images/exam_type/cat.png?label=CAT%20MBA"
+    },
+    "Kabir_19": {
+      "marks": 2,
+      "wins": 1,
+      "team": "SSC CGL",
+      "img": "/custom_images/exam_type/ssc_cgl.png?label=SSC%20CGL"
+    },
+    "Arjun_73": {
+      "marks": 2,
+      "wins": 1,
+      "team": "NEET UG",
+      "img": "/custom_images/exam_type/neet.png?label=NEET%20UG"
+    },
+    "Kabir_37": {
+      "marks": 2,
+      "wins": 1,
+      "team": "BANK PO",
+      "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
+    },
+    "Rohan_24": {
+      "marks": 2,
+      "wins": 1,
+      "team": "STATE PCS",
+      "img": "/custom_images/exam_type/state_pcs.png?label=STATE%20PCS"
+    },
+    "Ishaan_97": {
+      "marks": 2,
+      "wins": 1,
+      "team": "CAT MBA",
+      "img": "/custom_images/exam_type/cat.png?label=CAT%20MBA"
+    },
+    "Rohan_10": {
+      "marks": 2,
+      "wins": 1,
+      "team": "UPSC CSE",
+      "img": "/custom_images/exam_type/upsc.png?label=UPSC%20CSE"
+    },
+    "Aditya_78": {
+      "marks": 2,
+      "wins": 1,
+      "team": "BRAZIL",
+      "img": "/flags/br.svg"
+    },
+    "Riya_94": {
+      "marks": 2,
+      "wins": 1,
+      "team": "JAPAN",
+      "img": "/flags/jp.svg"
+    },
+    "Arjun_27": {
+      "marks": 2,
+      "wins": 1,
+      "team": "GERMANY",
+      "img": "/flags/de.svg"
+    },
+    "Rohan_55": {
+      "marks": 2,
+      "wins": 1,
+      "team": "CANADA",
+      "img": "/flags/ca.svg"
+    },
+    "Aarav_16": {
+      "marks": 2,
+      "wins": 1,
+      "team": "JAPAN",
+      "img": "/flags/jp.svg"
+    },
+    "Arjun_36": {
+      "marks": 2,
+      "wins": 1,
+      "team": "UK",
+      "img": "/flags/gb.svg"
+    },
+    "Aditya_10": {
+      "marks": 2,
+      "wins": 1,
+      "team": "USA",
+      "img": "/flags/us.svg"
+    },
+    "Ananya_52": {
+      "marks": 2,
+      "wins": 1,
+      "team": "AUSTRALIA",
+      "img": "/flags/au.svg"
+    },
+    "Ananya_20": {
+      "marks": 2,
+      "wins": 1,
+      "team": "UK",
+      "img": "/flags/gb.svg"
+    },
+    "Diya_73": {
+      "marks": 2,
+      "wins": 1,
+      "team": "AUSTRALIA",
+      "img": "/flags/au.svg"
+    },
+    "Neha_10": {
+      "marks": 2,
+      "wins": 1,
+      "team": "AUSTRALIA",
+      "img": "/flags/au.svg"
+    },
+    "Ishaan_22": {
+      "marks": 2,
+      "wins": 1,
+      "team": "UK",
+      "img": "/flags/gb.svg"
+    },
+    "Aarav_98": {
+      "marks": 2,
+      "wins": 1,
+      "team": "INDIA",
+      "img": "/flags/in.svg"
+    },
+    "Priya_38": {
+      "marks": 2,
+      "wins": 1,
+      "team": "UK",
+      "img": "/flags/gb.svg"
+    },
+    "Aditya_34": {
+      "marks": 2,
+      "wins": 1,
+      "team": "CANADA",
+      "img": "/flags/ca.svg"
+    },
+    "Sai_12": {
+      "marks": 2,
+      "wins": 1,
+      "team": "USA",
+      "img": "/flags/us.svg"
+    },
+    "Aarav_61": {
+      "marks": 2,
+      "wins": 1,
+      "team": "INDIA",
+      "img": "/flags/in.svg"
+    },
+    "Ananya_15": {
+      "marks": 2,
+      "wins": 1,
+      "team": "BRAZIL",
+      "img": "/flags/br.svg"
+    },
+    "Diya_17": {
+      "marks": 2,
+      "wins": 1,
+      "team": "GERMANY",
+      "img": "/flags/de.svg"
+    },
+    "Riya_72": {
+      "marks": 2,
+      "wins": 1,
+      "team": "GERMANY",
+      "img": "/flags/de.svg"
+    },
+    "Neha_78": {
+      "marks": 2,
+      "wins": 1,
+      "team": "BRAZIL",
+      "img": "/flags/br.svg"
+    },
+    "Aarav_76": {
+      "marks": 2,
+      "wins": 1,
+      "team": "BRAZIL",
+      "img": "/flags/br.svg"
+    },
+    "Aditya_32": {
+      "marks": 2,
+      "wins": 1,
+      "team": "AUSTRALIA",
+      "img": "/flags/au.svg"
+    },
+    "Vihaan_78": {
+      "marks": 2,
+      "wins": 1,
+      "team": "CANADA",
+      "img": "/flags/ca.svg"
+    },
+    "Kabir_10": {
+      "marks": 2,
+      "wins": 1,
+      "team": "BRAZIL",
+      "img": "/flags/br.svg"
+    },
+    "Neha_51": {
+      "marks": 2,
+      "wins": 1,
+      "team": "UK",
+      "img": "/flags/gb.svg"
+    },
+    "Ishaan_48": {
+      "marks": 2,
+      "wins": 1,
+      "team": "JAPAN",
+      "img": "/flags/jp.svg"
+    },
+    "Sai_99": {
+      "marks": 2,
+      "wins": 1,
+      "team": "UK",
+      "img": "/flags/gb.svg"
+    },
+    "Priya_16": {
+      "marks": 2,
+      "wins": 1,
+      "team": "BRAZIL",
+      "img": "/flags/br.svg"
+    },
+    "Ananya_93": {
+      "marks": 2,
+      "wins": 1,
+      "team": "AUSTRALIA",
+      "img": "/flags/au.svg"
+    },
+    "Sai_87": {
+      "marks": 2,
+      "wins": 1,
+      "team": "CANADA",
+      "img": "/flags/ca.svg"
+    },
+    "Priya_71": {
+      "marks": 2,
+      "wins": 1,
+      "team": "INDIA",
+      "img": "/flags/in.svg"
+    },
+    "Diya_98": {
+      "marks": 2,
+      "wins": 1,
+      "team": "JAPAN",
+      "img": "/flags/jp.svg"
     }
   },
   "by_repo": {
@@ -466,10 +826,10 @@
         "img": "/custom_images/exam_type/railway.png?label=RAILWAY%20RRB"
       },
       "Kabir_25": {
-        "marks": 2,
-        "wins": 1,
-        "team": "STATE PCS",
-        "img": "/custom_images/exam_type/state_pcs.png?label=STATE%20PCS"
+        "marks": 4,
+        "wins": 2,
+        "team": "AUSTRALIA",
+        "img": "/flags/au.svg"
       },
       "Ishaan_94": {
         "marks": 4,
@@ -532,10 +892,10 @@
         "img": "/custom_images/exam_type/neet.png?label=NEET%20UG"
       },
       "Priya_96": {
-        "marks": 2,
-        "wins": 1,
-        "team": "STATE PCS",
-        "img": "/custom_images/exam_type/state_pcs.png?label=STATE%20PCS"
+        "marks": 4,
+        "wins": 2,
+        "team": "JAPAN",
+        "img": "/flags/jp.svg"
       },
       "Aditya_28": {
         "marks": 2,
@@ -550,9 +910,9 @@
         "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
       },
       "Neha_54": {
-        "marks": 2,
-        "wins": 1,
-        "team": "CAT MBA",
+        "marks": 4,
+        "wins": 2,
+        "team": "JEE MAIN",
         "img": "/custom_images/exam_type/cat.png?label=CAT%20MBA"
       },
       "Vivaan_65": {
@@ -592,9 +952,9 @@
         "img": "/custom_images/exam_type/upsc.png?label=UPSC%20CSE"
       },
       "Riya_44": {
-        "marks": 2,
-        "wins": 1,
-        "team": "SSC CGL",
+        "marks": 4,
+        "wins": 2,
+        "team": "CAT MBA",
         "img": "/custom_images/exam_type/ssc_cgl.png?label=SSC%20CGL"
       },
       "Neha_60": {
@@ -790,10 +1150,10 @@
         "img": "/custom_images/exam_type/upsc.png?label=UPSC%20CSE"
       },
       "Ishaan_79": {
-        "marks": 2,
-        "wins": 1,
-        "team": "BANK PO",
-        "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
+        "marks": 4,
+        "wins": 2,
+        "team": "UK",
+        "img": "/flags/gb.svg"
       },
       "Aditya_40": {
         "marks": 2,
@@ -878,6 +1238,366 @@
         "wins": 1,
         "team": "NEET UG",
         "img": "/custom_images/exam_type/neet.png?label=NEET%20UG"
+      },
+      "Aarav_18": {
+        "marks": 2,
+        "wins": 1,
+        "team": "RAILWAY RRB",
+        "img": "/custom_images/exam_type/railway.png?label=RAILWAY%20RRB"
+      },
+      "Vihaan_20": {
+        "marks": 4,
+        "wins": 2,
+        "team": "CANADA",
+        "img": "/flags/ca.svg"
+      },
+      "Aarav_35": {
+        "marks": 2,
+        "wins": 1,
+        "team": "GATE",
+        "img": "/custom_images/exam_type/gate.png?label=GATE"
+      },
+      "Vihaan_58": {
+        "marks": 2,
+        "wins": 1,
+        "team": "CAT MBA",
+        "img": "/custom_images/exam_type/cat.png?label=CAT%20MBA"
+      },
+      "Ishaan_85": {
+        "marks": 2,
+        "wins": 1,
+        "team": "BANK PO",
+        "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
+      },
+      "Kabir_28": {
+        "marks": 2,
+        "wins": 1,
+        "team": "BANK PO",
+        "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
+      },
+      "Vivaan_52": {
+        "marks": 2,
+        "wins": 1,
+        "team": "STATE PCS",
+        "img": "/custom_images/exam_type/state_pcs.png?label=STATE%20PCS"
+      },
+      "Ishaan_62": {
+        "marks": 2,
+        "wins": 1,
+        "team": "JEE MAIN",
+        "img": "/custom_images/exam_type/jee.png?label=JEE%20MAIN"
+      },
+      "Sai_51": {
+        "marks": 2,
+        "wins": 1,
+        "team": "BANK PO",
+        "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
+      },
+      "Aarav_44": {
+        "marks": 2,
+        "wins": 1,
+        "team": "SSC CGL",
+        "img": "/custom_images/exam_type/ssc_cgl.png?label=SSC%20CGL"
+      },
+      "Kabir_81": {
+        "marks": 2,
+        "wins": 1,
+        "team": "SSC CGL",
+        "img": "/custom_images/exam_type/ssc_cgl.png?label=SSC%20CGL"
+      },
+      "Diya_36": {
+        "marks": 2,
+        "wins": 1,
+        "team": "SSC CGL",
+        "img": "/custom_images/exam_type/ssc_cgl.png?label=SSC%20CGL"
+      },
+      "Arjun_39": {
+        "marks": 2,
+        "wins": 1,
+        "team": "BANK PO",
+        "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
+      },
+      "Ishaan_58": {
+        "marks": 2,
+        "wins": 1,
+        "team": "CAT MBA",
+        "img": "/custom_images/exam_type/cat.png?label=CAT%20MBA"
+      },
+      "Ananya_82": {
+        "marks": 2,
+        "wins": 1,
+        "team": "BANK PO",
+        "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
+      },
+      "Neha_45": {
+        "marks": 2,
+        "wins": 1,
+        "team": "BANK PO",
+        "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
+      },
+      "Arjun_77": {
+        "marks": 2,
+        "wins": 1,
+        "team": "NDA DEFENCE",
+        "img": "/custom_images/exam_type/nda.png?label=NDA%20DEFENCE"
+      },
+      "Aarav_65": {
+        "marks": 2,
+        "wins": 1,
+        "team": "JEE MAIN",
+        "img": "/custom_images/exam_type/jee.png?label=JEE%20MAIN"
+      },
+      "Sai_34": {
+        "marks": 2,
+        "wins": 1,
+        "team": "BANK PO",
+        "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
+      },
+      "Arjun_90": {
+        "marks": 2,
+        "wins": 1,
+        "team": "NEET UG",
+        "img": "/custom_images/exam_type/neet.png?label=NEET%20UG"
+      },
+      "Rohan_18": {
+        "marks": 2,
+        "wins": 1,
+        "team": "CAT MBA",
+        "img": "/custom_images/exam_type/cat.png?label=CAT%20MBA"
+      },
+      "Kabir_19": {
+        "marks": 2,
+        "wins": 1,
+        "team": "SSC CGL",
+        "img": "/custom_images/exam_type/ssc_cgl.png?label=SSC%20CGL"
+      },
+      "Arjun_73": {
+        "marks": 2,
+        "wins": 1,
+        "team": "NEET UG",
+        "img": "/custom_images/exam_type/neet.png?label=NEET%20UG"
+      },
+      "Kabir_37": {
+        "marks": 2,
+        "wins": 1,
+        "team": "BANK PO",
+        "img": "/custom_images/exam_type/bank_po.png?label=BANK%20PO"
+      },
+      "Rohan_24": {
+        "marks": 2,
+        "wins": 1,
+        "team": "STATE PCS",
+        "img": "/custom_images/exam_type/state_pcs.png?label=STATE%20PCS"
+      },
+      "Ishaan_97": {
+        "marks": 2,
+        "wins": 1,
+        "team": "CAT MBA",
+        "img": "/custom_images/exam_type/cat.png?label=CAT%20MBA"
+      },
+      "Rohan_10": {
+        "marks": 2,
+        "wins": 1,
+        "team": "UPSC CSE",
+        "img": "/custom_images/exam_type/upsc.png?label=UPSC%20CSE"
+      },
+      "Aditya_78": {
+        "marks": 2,
+        "wins": 1,
+        "team": "BRAZIL",
+        "img": "/flags/br.svg"
+      },
+      "Riya_94": {
+        "marks": 2,
+        "wins": 1,
+        "team": "JAPAN",
+        "img": "/flags/jp.svg"
+      },
+      "Arjun_27": {
+        "marks": 2,
+        "wins": 1,
+        "team": "GERMANY",
+        "img": "/flags/de.svg"
+      },
+      "Rohan_55": {
+        "marks": 2,
+        "wins": 1,
+        "team": "CANADA",
+        "img": "/flags/ca.svg"
+      },
+      "Aarav_16": {
+        "marks": 2,
+        "wins": 1,
+        "team": "JAPAN",
+        "img": "/flags/jp.svg"
+      },
+      "Arjun_36": {
+        "marks": 2,
+        "wins": 1,
+        "team": "UK",
+        "img": "/flags/gb.svg"
+      },
+      "Aditya_10": {
+        "marks": 2,
+        "wins": 1,
+        "team": "USA",
+        "img": "/flags/us.svg"
+      },
+      "Ananya_52": {
+        "marks": 2,
+        "wins": 1,
+        "team": "AUSTRALIA",
+        "img": "/flags/au.svg"
+      },
+      "Ananya_20": {
+        "marks": 2,
+        "wins": 1,
+        "team": "UK",
+        "img": "/flags/gb.svg"
+      },
+      "Diya_73": {
+        "marks": 2,
+        "wins": 1,
+        "team": "AUSTRALIA",
+        "img": "/flags/au.svg"
+      },
+      "Neha_10": {
+        "marks": 2,
+        "wins": 1,
+        "team": "AUSTRALIA",
+        "img": "/flags/au.svg"
+      },
+      "Ishaan_22": {
+        "marks": 2,
+        "wins": 1,
+        "team": "UK",
+        "img": "/flags/gb.svg"
+      },
+      "Aarav_98": {
+        "marks": 2,
+        "wins": 1,
+        "team": "INDIA",
+        "img": "/flags/in.svg"
+      },
+      "Priya_38": {
+        "marks": 2,
+        "wins": 1,
+        "team": "UK",
+        "img": "/flags/gb.svg"
+      },
+      "Aditya_34": {
+        "marks": 2,
+        "wins": 1,
+        "team": "CANADA",
+        "img": "/flags/ca.svg"
+      },
+      "Sai_12": {
+        "marks": 2,
+        "wins": 1,
+        "team": "USA",
+        "img": "/flags/us.svg"
+      },
+      "Aarav_61": {
+        "marks": 2,
+        "wins": 1,
+        "team": "INDIA",
+        "img": "/flags/in.svg"
+      },
+      "Ananya_15": {
+        "marks": 2,
+        "wins": 1,
+        "team": "BRAZIL",
+        "img": "/flags/br.svg"
+      },
+      "Diya_17": {
+        "marks": 2,
+        "wins": 1,
+        "team": "GERMANY",
+        "img": "/flags/de.svg"
+      },
+      "Riya_72": {
+        "marks": 2,
+        "wins": 1,
+        "team": "GERMANY",
+        "img": "/flags/de.svg"
+      },
+      "Neha_78": {
+        "marks": 2,
+        "wins": 1,
+        "team": "BRAZIL",
+        "img": "/flags/br.svg"
+      },
+      "Aarav_76": {
+        "marks": 2,
+        "wins": 1,
+        "team": "BRAZIL",
+        "img": "/flags/br.svg"
+      },
+      "Aditya_32": {
+        "marks": 2,
+        "wins": 1,
+        "team": "AUSTRALIA",
+        "img": "/flags/au.svg"
+      },
+      "Vihaan_78": {
+        "marks": 2,
+        "wins": 1,
+        "team": "CANADA",
+        "img": "/flags/ca.svg"
+      },
+      "Kabir_10": {
+        "marks": 2,
+        "wins": 1,
+        "team": "BRAZIL",
+        "img": "/flags/br.svg"
+      },
+      "Neha_51": {
+        "marks": 2,
+        "wins": 1,
+        "team": "UK",
+        "img": "/flags/gb.svg"
+      },
+      "Ishaan_48": {
+        "marks": 2,
+        "wins": 1,
+        "team": "JAPAN",
+        "img": "/flags/jp.svg"
+      },
+      "Sai_99": {
+        "marks": 2,
+        "wins": 1,
+        "team": "UK",
+        "img": "/flags/gb.svg"
+      },
+      "Priya_16": {
+        "marks": 2,
+        "wins": 1,
+        "team": "BRAZIL",
+        "img": "/flags/br.svg"
+      },
+      "Ananya_93": {
+        "marks": 2,
+        "wins": 1,
+        "team": "AUSTRALIA",
+        "img": "/flags/au.svg"
+      },
+      "Sai_87": {
+        "marks": 2,
+        "wins": 1,
+        "team": "CANADA",
+        "img": "/flags/ca.svg"
+      },
+      "Priya_71": {
+        "marks": 2,
+        "wins": 1,
+        "team": "INDIA",
+        "img": "/flags/in.svg"
+      },
+      "Diya_98": {
+        "marks": 2,
+        "wins": 1,
+        "team": "JAPAN",
+        "img": "/flags/jp.svg"
       }
     }
   }
