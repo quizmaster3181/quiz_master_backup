@@ -28,11 +28,11 @@
     "repo": "Neet"
   },
   "19_oct_26_100001": {
-    "attempts": 412,
-    "fails": 327,
-    "correct": 85,
+    "attempts": 702,
+    "fails": 551,
+    "correct": 151,
     "repo": "Neet",
-    "ask_count": 22,
+    "ask_count": 42,
     "tier_used": "tier_tough"
   }
 }
