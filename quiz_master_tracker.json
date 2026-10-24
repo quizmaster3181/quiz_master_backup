@@ -1,5 +1,5 @@
 {
-  "current_code_format_example": "19_oct_26_294388",
+  "current_code_format_example": "24_oct_26_294388",
   "total_repositories": 8,
   "grand_total_questions": 13,
   "grand_total_imaged_questions": 3,
@@ -11,8 +11,8 @@
     "GK": "https://github.com/quizmaster3181/GK.git",
     "global_daily_quiz": "https://github.com/quizmaster3181/global_daily_quiz.git",
     "Modern_History": "https://github.com/quizmaster3181/Modern_History.git",
-    "Polity": "https://github.com/quizmaster3181/Polity.git",
-    "new": "https://github.com/quizmaster3181/new.git"
+    "new": "https://github.com/quizmaster3181/new.git",
+    "Polity": "https://github.com/quizmaster3181/Polity.git"
   },
   "repositories": {
     "Bio": {
@@ -61,21 +61,21 @@
           "questions": 1,
           "with_images": 0,
           "checked": 1,
-          "last_modified": "19 Oct 2026, 03:01 AM"
+          "last_modified": "24 Oct 2026, 06:26 PM"
         },
         {
           "file": "poli_quiz2_19_october_himalsadfsfayan_passes.json",
           "questions": 1,
           "with_images": 0,
           "checked": 1,
-          "last_modified": "19 Oct 2026, 03:01 AM"
+          "last_modified": "24 Oct 2026, 06:26 PM"
         },
         {
           "file": "poli_quiz1_19_october_himalayan_passes.json",
           "questions": 3,
           "with_images": 3,
           "checked": 3,
-          "last_modified": "19 Oct 2026, 03:01 AM"
+          "last_modified": "24 Oct 2026, 06:26 PM"
         }
       ]
     },
@@ -90,7 +90,7 @@
           "questions": 4,
           "with_images": 0,
           "checked": 4,
-          "last_modified": "19 Oct 2026, 04:03 AM"
+          "last_modified": "24 Oct 2026, 06:26 PM"
         }
       ]
     },
@@ -105,7 +105,7 @@
           "questions": 4,
           "with_images": 0,
           "checked": 4,
-          "last_modified": "19 Oct 2026, 03:02 AM"
+          "last_modified": "24 Oct 2026, 06:26 PM"
         }
       ]
     }
